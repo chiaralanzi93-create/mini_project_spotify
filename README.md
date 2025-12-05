@@ -75,7 +75,7 @@ These steps ensured consistency and referential integrity across the database.
 A normalized schema was designed to avoid redundancy and support efficient querying.
 
 ### 📌 **Artists Table**  
-Contains unique artist names (38 in total)
+Contains unique artist names.
 
 ### 📌 **Songs Table**  
 Stores detailed musical attributes and links each song to an artist
@@ -103,7 +103,6 @@ Analysis approach:
 
 Analysis approach:
 - Categorize danceability into Low / Medium / High
-- Compare average popularity across groups
 - Examine whether the most danceable songs also rank highly
 
 ---
@@ -144,4 +143,9 @@ The most successful tracks tend to blend **Pop genre identity** with **moderate-
 
 ---
 
+# 🎤 **Presentation**
+
+👉 [Click here to view the Canva Presentation](https://www.canva.com/design/DAG6j3Llv58/0Cz0K-J90wpaSK_xlZTdrg/view?utm_content=DAG6j3Llv58&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5f61742688)
+
+---
 # 🎉 Thank You
